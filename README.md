@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Prashant singh
+#  Hi , I'm Prashant singh
 **A passionate Full stack developer**
 
 Email Me ➨ **hritikbaghel703@gmail.com** For Collaboration/Project or Anything Else. 
